@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I'm Kyle.
 
 <!--
 **kylewtho/kylewtho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylewtho)](https://github.com/anuraghazra/github-readme-stats)
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylewtho&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylewtho&hide=html)
+
+[![@Kyle's Holopin board](https://holopin.me/kylewtho)](https://holopin.io/@kylewtho)
