@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <!--END_SECTION:github-stats-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -49,16 +47,16 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kylewtho                 8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +72,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2025 01:50:19 UTC
+ Last Updated on 06/05/2025 01:13:10 UTC
 <!--END_SECTION:waka-->
