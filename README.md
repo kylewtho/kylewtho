@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <!--END_SECTION:github-stats-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2043%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -74,5 +72,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 01:14:54 UTC
+ Last Updated on 22/05/2025 01:14:26 UTC
 <!--END_SECTION:waka-->
