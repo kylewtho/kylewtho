@@ -49,16 +49,18 @@ Sunday                   18 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 28 mins       █████████████████████████   99.92 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ass1                     2 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +76,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2025 01:18:46 UTC
+ Last Updated on 10/07/2025 01:18:47 UTC
 <!--END_SECTION:waka-->
