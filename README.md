@@ -22,6 +22,45 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2038%20mins-blue)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌆 Daytime                62 commits          ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+🌃 Evening                84 commits          ██████████░░░░░░░░░░░░░░░   38.18 % 
+🌙 Night                  52 commits          ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   64 commits          ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Tuesday                  45 commits          █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Wednesday                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Thursday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Friday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -35,5 +74,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2025 01:10:21 UTC
+ Last Updated on 26/09/2025 01:10:33 UTC
 <!--END_SECTION:waka-->
