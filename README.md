@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <!--END_SECTION:github-stats-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2010%20mins-blue?style=flat)
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -33,5 +35,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 02:47:44 UTC
+ Last Updated on 16/05/2026 02:36:49 UTC
 <!--END_SECTION:waka-->
