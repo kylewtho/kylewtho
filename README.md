@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <!--END_SECTION:github-stats-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2019%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -82,5 +80,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 02:45:19 UTC
+ Last Updated on 18/05/2026 02:55:12 UTC
 <!--END_SECTION:waka-->
