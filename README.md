@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <!--END_SECTION:github-stats-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%205%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -49,17 +47,16 @@ Sunday                   91 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Markdown                 3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-observer-sessions        2 mins              ████████████████████░░░░░   78.05 % 
-kyle                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +72,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 02:47:25 UTC
+ Last Updated on 29/05/2026 02:51:10 UTC
 <!--END_SECTION:waka-->
