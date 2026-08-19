@@ -51,36 +51,64 @@ Sunday                   91 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 19 mins       █████████████░░░░░░░░░░░░   52.43 % 
+Markdown                 1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   41.34 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 29 mins       ██████████████░░░░░░░░░░░   56.52 % 
+VS Code                  1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+Codex Vscode             30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Antigravity CLI          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Documents                2 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.63 % 
+observer-sessions        1 hr 58 mins        ███████████░░░░░░░░░░░░░░   44.76 % 
+kyle                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 20 mins (98.18%)
+
+✍️ 3,634 lines written by AI, 25 lines written by hand (99.32% AI-written)
+
+🔤 2,392,898 Input Tokens, 254,609 Output Tokens
+
+💵 $22.93 Estimated AI Cost This Week
+
+🧠 59 AI Sessions, 362 AI Prompts
+
+GPT                      3,500 lines         ████████████████████████░   95.76 % 
+Github-Copilot           155 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.32% of written lines came from AI
+📚 Verbose Prompter — average 5,852 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 18/08/2026 00:59:51 UTC
+ Last Updated on 19/08/2026 01:00:32 UTC
 <!--END_SECTION:waka-->
