@@ -27,21 +27,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-🌆 Daytime                850 commits         █████████████░░░░░░░░░░░░   52.28 % 
-🌃 Evening                522 commits         ████████░░░░░░░░░░░░░░░░░   32.10 % 
-🌙 Night                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+🌞 Morning                147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+🌆 Daytime                853 commits         █████████████░░░░░░░░░░░░   52.36 % 
+🌃 Evening                522 commits         ████████░░░░░░░░░░░░░░░░░   32.04 % 
+🌙 Night                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   327 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Tuesday                  494 commits         ████████░░░░░░░░░░░░░░░░░   30.38 % 
-Wednesday                236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Friday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Saturday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Sunday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Monday                   330 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Tuesday                  494 commits         ████████░░░░░░░░░░░░░░░░░   30.33 % 
+Wednesday                236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Thursday                 160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Friday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Saturday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Sunday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 ```
 
 
@@ -51,46 +51,49 @@ Sunday                   106 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Markdown                 2 hrs 53 mins       ████████████████████░░░░░   79.71 % 
-Other                    44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Markdown                 1 hr 47 mins        █████████████████░░░░░░░░   67.82 % 
+Other                    42 mins             ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   36.36 % 
-VS Code                  56 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-Antigravity Desktop      55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Claude Code              26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Claude Code              49 mins             ████████░░░░░░░░░░░░░░░░░   31.47 % 
+VS Code                  45 mins             ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+Codex Vscode             36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+Antigravity Desktop      25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 27 mins       █████████████████░░░░░░░░   68.01 % 
-interp-dojo              1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-observer-sessions        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Vault                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Documents                1 hr 40 mins        ████████████████░░░░░░░░░   63.45 % 
+interp-dojo              23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+observer-sessions        18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+argent-analytics         15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+koe                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Mac                      3 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 37 mins (100.0%)
 
-✍️ 3,479 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,166 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,679,150 Input Tokens, 203,137 Output Tokens
+🔤 1,031,213 Input Tokens, 154,215 Output Tokens
 
-💵 $21.25 Estimated AI Cost This Week
+💵 $13.63 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 144 AI Prompts
+🧠 19 AI Sessions, 98 AI Prompts
 
-GPT                      3,479 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      2,147 lines         █████████████████████████   99.12 % 
+Sonnet                   19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,757 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 12,553 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -107,5 +110,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 03:06:56 UTC
+ Last Updated on 15/09/2026 03:08:56 UTC
 <!--END_SECTION:waka-->
