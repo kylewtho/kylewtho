@@ -51,31 +51,30 @@ Sunday                   107 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Markdown                 42 mins             ███████████████░░░░░░░░░░   60.33 % 
-Other                    16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-Git Config               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Markdown                 42 mins             ████████████████░░░░░░░░░   63.77 % 
+Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Git Config               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
 
 🔥 Editors: 
-Claude Code              36 mins             █████████████░░░░░░░░░░░░   52.40 % 
-Codex Vscode             13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Antigravity CLI          11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Claude Code              36 mins             ██████████████░░░░░░░░░░░   55.39 % 
+Codex Vscode             13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Antigravity CLI          8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 
 🐱‍💻 Projects: 
-Documents                37 mins             █████████████░░░░░░░░░░░░   52.93 % 
-argent-analytics         18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-observer-sessions        10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-kyle                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-koe                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Documents                37 mins             ██████████████░░░░░░░░░░░   55.95 % 
+argent-analytics         18 mins             ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+observer-sessions        10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+koe                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (100.0%)
+⏱ AI Coding Time: 1 hr 6 mins (100.0%)
 
 ✍️ 871 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -83,7 +82,7 @@ Mac                      1 hr 10 mins        ███████████�
 
 💵 $5.74 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 82 AI Prompts
+🧠 13 AI Sessions, 80 AI Prompts
 
 GPT                      852 lines           ████████████████████████░   97.48 % 
 Sonnet                   22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
@@ -91,7 +90,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,457 characters per prompt
+📚 Verbose Prompter — average 12,768 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -99,9 +98,9 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            █████████░░░░░░░░░░░░░░░░   37.04 % 
+TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
 JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
@@ -109,5 +108,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 02:56:45 UTC
+ Last Updated on 19/09/2026 02:55:08 UTC
 <!--END_SECTION:waka-->
