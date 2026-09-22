@@ -51,47 +51,44 @@ Sunday                   109 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Markdown                 42 mins             ████████████████░░░░░░░░░   63.77 % 
-Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Git Config               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Other                    10 mins             ████████████████████░░░░░   78.95 % 
+Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 
 🔥 Editors: 
-Claude Code              36 mins             ██████████████░░░░░░░░░░░   55.39 % 
-Codex Vscode             13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Antigravity CLI          8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Claude Code              9 mins              ██████████████████░░░░░░░   72.18 % 
+Codex Vscode             2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-Documents                37 mins             ██████████████░░░░░░░░░░░   55.95 % 
-argent-analytics         18 mins             ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-observer-sessions        10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-koe                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+observer-sessions        9 mins              █████████████████░░░░░░░░   66.57 % 
+Documents                4 mins              ████████░░░░░░░░░░░░░░░░░   33.19 % 
+koe                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (100.0%)
+⏱ AI Coding Time: 13 mins (100.0%)
 
-✍️ 871 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 408 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 535,146 Input Tokens, 75,284 Output Tokens
+🔤 409,670 Input Tokens, 38,133 Output Tokens
 
-💵 $5.74 Estimated AI Cost This Week
+💵 $3.75 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 80 AI Prompts
+🧠 8 AI Sessions, 37 AI Prompts
 
-GPT                      852 lines           ████████████████████████░   97.48 % 
-Sonnet                   22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      408 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,768 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 5,706 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -108,5 +105,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 03:04:27 UTC
+ Last Updated on 22/09/2026 03:03:57 UTC
 <!--END_SECTION:waka-->
