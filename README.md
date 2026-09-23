@@ -51,45 +51,22 @@ Sunday                   109 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    10 mins             ████████████████████░░░░░   78.95 % 
-Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              9 mins              ██████████████████░░░░░░░   72.18 % 
-Codex Vscode             2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-observer-sessions        9 mins              █████████████████░░░░░░░░   66.57 % 
-Documents                4 mins              ████████░░░░░░░░░░░░░░░░░   33.19 % 
-koe                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (100.0%)
-
-✍️ 408 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 409,670 Input Tokens, 38,133 Output Tokens
-
-💵 $3.75 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 37 AI Prompts
-
-GPT                      408 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,706 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,5 +82,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 03:03:57 UTC
+ Last Updated on 23/09/2026 03:03:55 UTC
 <!--END_SECTION:waka-->
